@@ -1,0 +1,15 @@
+[connection]
+id=mobile
+type=gsm
+autoconnect=true
+
+[gsm]
+apn=shared.m2m.ch
+number=*98*1#
+
+[ipv4]
+method=auto
+
+[ipv6]
+addr-gen-mode=stable-privacy
+method=auto
