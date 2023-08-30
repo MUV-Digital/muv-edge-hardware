@@ -1,11 +1,13 @@
 [connection]
-id=mobile
+id=cellular
 type=gsm
 autoconnect=true
 
 [gsm]
 apn=shared.m2m.ch
-number=*98*1#
+
+[serial]
+baud=115200
 
 [ipv4]
 method=auto
