@@ -14,3 +14,4 @@ This repository contains the instructions for how to setup the MUV Edge hardware
 ### 4G Modem
 
 * To show the modem state with signal quality `mmcli --modem=0` [Blog Help](https://techship.com/faq/using-network-manager-and-modem-manager-in-linux-to-automatically-establish-a-connection-and-configure-ip-details/)
+* Tech blog help  [Blog Help](https://www.jeffgeerling.com/blog/2022/using-4g-lte-wireless-modems-on-raspberry-pi)
